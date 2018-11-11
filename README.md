@@ -1,6 +1,13 @@
 # This exercise is based on this article:
 https://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/
 
+## To start the server:
+
+run `npm install` > It will create the node_modules folder and install all relevant dependencies
+
+run `npm start` > It will start the server on http://localhost:3000/
+
+# Additional Details:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
